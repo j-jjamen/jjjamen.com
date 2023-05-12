@@ -1,0 +1,95 @@
+body,
+html {
+    background-color: #112B3C;
+    overflow-x: hidden;
+    max-height: 100%;
+}
+
+#navBar,
+.box,
+#navMenu {
+    background-color: #0b1d29;
+}
+
+#nameBrand {
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: lighter;
+}
+
+
+#downloadCV {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#navBURG {
+    background-color: white;
+}
+
+#hi {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#firstColumns {
+    margin-top: 45px;
+}
+
+#red {
+    color: #ff5c5c;
+}
+
+#lightblue {
+    color: #80d5ff;
+
+}
+
+#green {
+    color: #15cc00;
+}
+
+#yellow {
+    color: #e6d600;
+}
+
+#purple {
+    color: #7133ff;
+}
+
+#orange {
+    color: #e67300;
+}
+
+.navbar-dropdown {
+    color: red;
+}
+
+#navMenus {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.navbar-item.has-text-white:hover {
+    background-color: #112B3C;
+
+}
+
+.navbar-dropdown {
+    background-color: #0b1d29;
+}
+
+.button {
+    background-color: #112B3C;
+    border-color: #112B3C;
+}
+
+.fas.fa-download {
+    color: white;
+}
+
+#navMenus:hover {
+    background-color: #112B3C;
+}
