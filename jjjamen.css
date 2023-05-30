@@ -28,7 +28,7 @@ html {
     background-color: white;
 }
 
-#hi {
+#hi, #btnRes, #btnThemes {
     color: white;
     font-family: 'Montserrat', sans-serif;
 
